@@ -6,7 +6,7 @@
  */
 
 :root {
-    --blue: #007bff;
+    --blue: #007bff; 
     --indigo: #6610f2;
     --purple: #6f42c1;
     --pink: #e83e8c;
@@ -54,7 +54,6 @@ html {
 @-ms-viewport {
     width: device-width
 }
-
 article,
 aside,
 figcaption,
